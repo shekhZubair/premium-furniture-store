@@ -8,7 +8,7 @@ The project focuses on premium UI/UX design, reusable React components, responsi
 
 ## 🚀 Live Demo
 
-🔗 Live Link: 
+🔗 Live Link: https://premium-furniture-store-flax.vercel.app/
 
 ---
 
