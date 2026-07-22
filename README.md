@@ -41,4 +41,16 @@ The project focuses on premium UI/UX design, reusable React components, responsi
 
 ---
 
+## 🤖 AI Assistance
+
+AI tools were used as a supporting assistant during the development process, not for generating the complete project.
+
+AI was used for:
+- Brainstorming UI/UX ideas and design improvements
+- Getting suggestions for component structure
+- Debugging and resolving minor coding issues
+- Improving responsiveness and styling approaches
+
+The majority of the project was designed, coded, and implemented manually, including React components, layouts, styling, and overall functionality.
+
 
