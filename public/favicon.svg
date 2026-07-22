@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Warm Cream Background matching your website -->
+  <rect width="32" height="32" rx="6" fill="#FAF6F0"/>
+  
+  <!-- Bronze-Brown Monogram matching your LuxeHome text & buttons -->
+  <text x="50%" y="54%" dominant-baseline="central" text-anchor="middle" fill="#8B6F4E" font-family="Georgia, serif" font-size="15" font-weight="bold">LH</text>
+</svg>
